@@ -1,3 +1,4 @@
 import os
 
-import CNDM
+from CNDM import menu
+menu()

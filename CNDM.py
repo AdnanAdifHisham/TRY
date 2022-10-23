@@ -1,3 +1,3 @@
 import os
 
-import CNDM
+from CNDM import login

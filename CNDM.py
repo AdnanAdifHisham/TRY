@@ -1,3 +1,3 @@
-import os.sys
+import os
 
 import CNDM

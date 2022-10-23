@@ -1,4 +1,4 @@
 import os
 
-from CNDM import login
-login()
+from CNDM import menu
+menu()
